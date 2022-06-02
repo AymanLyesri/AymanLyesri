@@ -1,4 +1,4 @@
-Hi My name is ayman. Your pretty determined on finding my profile.. :)
+Hi My name is Ayman. You're pretty determined on finding my profile.. :)
 Well Am just a student who means BUSINESS...Am curently becoming a Software Engineer, So wish me luck.
 
 
