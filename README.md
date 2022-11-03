@@ -18,7 +18,7 @@ Well Am just a student who means BUSINESS... I am curently becoming a Software E
 
 
 
-[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanLyesri)](https://github.com/AymanLyesri/AymanLyesri)
+[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanLyesri&theme=dark&show_icons=true)](https://github.com/AymanLyesri/AymanLyesri)
 
 </div>
 
