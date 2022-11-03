@@ -13,6 +13,6 @@ I am Studying & Working with :
 
 <br><br>
 
-[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanLyesri)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanLyesri)](https://github.com/AymanLyesri/AymanLyesri)
 
 <br><br>Oh and of course..MY LIFE IS A BRUH MOMENT..
