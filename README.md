@@ -13,4 +13,6 @@ I am Studying & Working with :
 <img align="left" alt="GitHub" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Fopen_graph%2Fgithub-mark.png&f=1&nofb=1" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanLyesri)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>Oh and of course..MY LIFE IS A BRUH MOMENT..
