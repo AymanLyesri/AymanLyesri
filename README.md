@@ -2,15 +2,14 @@ Hi My name is Ayman. You're pretty determined on finding my profile.. :)
 Well Am just a student who means BUSINESS...Am curently becoming a Software Engineer, So wish me luck.
 
 I am Studying & Working with : 
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/ios/512/angularjs.png" />
-
+<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/512/angularjs.png" />
+<img align="left" alt="Nodejs" width="26px" src="https://img.icons8.com/fluency/512/node-js.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" />
+<img align="left" alt="C Language" width="26px" src="https://img.icons8.com/ios-filled/512/c-plus-plus.png" />
+<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/512/html-5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/512/css3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/512/git.png" />
 
 <br><br>
 
