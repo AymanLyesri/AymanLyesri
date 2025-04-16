@@ -4,9 +4,6 @@
 👋 Hi, I'm Ayman!<br><br>Welcome to my profile – looks like you were determined to find it! 😄 I’m a dedicated student on the path to becoming a Software Engineer, and I mean business when it comes to coding and problem-solving. Currently, I’m diving deep into software development and building my skills one project at a time.<br><br>Stay tuned for some exciting projects, and feel free to connect or follow along on my journey. Wish me luck! 🚀
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymanlyesri) 
-
 # 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -27,6 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aymanlyesri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
