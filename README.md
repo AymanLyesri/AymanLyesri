@@ -45,9 +45,7 @@ I believe in clean code, continuous learning, and the power of coffee ☕. Welco
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=aymanlyesri&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aymanlyesri&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanlyesri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanLyesri)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
