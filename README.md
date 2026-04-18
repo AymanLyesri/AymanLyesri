@@ -71,9 +71,9 @@ If you appreciate my projects or want to support my journey, consider buying me 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aymanlyesri)
 
 ### ₿ Crypto Donations (BSC - BNB Smart Chain (BEP20))
-**Bitcoin (BTC):** `0x52d06d47bb9dc75eaf027f18cb197d5817989a96`<br>
+**Bitcoin (BTC):** `1JisW9xeatCFadtgsenjbpCcFePZGPyXow`<br>
 **Ethereum (ETH):** `0x52d06d47bb9dc75eaf027f18cb197d5817989a96`<br>
-**USDT :** `0x52d06d47bb9dc75eaf027f18cb197d5817989a96`<br>
+**BSC :** `0x52d06d47bb9dc75eaf027f18cb197d5817989a96`<br>
 
 *Thank you for your support! It means the world to me and helps me continue learning and building. 🙏*
 
